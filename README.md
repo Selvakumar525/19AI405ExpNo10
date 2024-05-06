@@ -1,7 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
-## DEVELOPED BY :SARGURU K
-## REG NO : 212222230134
+## DEVELOPED BY :Selva kumar 
+## REG NO : 212222110042
 
 ## AIM :
 
